@@ -1,0 +1,10 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://10.0.1.190:27017"
+    },
+    "production": {
+        "PORT": 80,
+        "MONGODB_URI": "mongodb://10.0.1.190:27017"
+    }
+}
